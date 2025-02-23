@@ -15,4 +15,6 @@ DOMAIN-KEYWORD,moefantasy.com,GAME
 DOMAIN-SUFFIX,whatshub.top
 DOMAIN-SUFFIX,app.localhost.direct
 DOMAIN-SUFFIX,apt.25mao.com
+# bilibili直播
+DOMAIN-SUFFIX,bilivideo.com,Bilibili
 
