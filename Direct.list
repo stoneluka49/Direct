@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,media.nijigem.by,emby
 DOMAIN-SUFFIX,jrszb2018.com,NBA
 DOMAIN-SUFFIX,jrszb111.com,NBA
 DOMAIN-SUFFIX,jrszb444.com,NBA
-USER-AGENT,*jrszb*,NBA
+DOMAIN-KEYWORD,jrszb,NBA
 DOMAIN-SUFFIX,yumixiu768.com,NBA
 DOMAIN-SUFFIX,sportsteam668.com,NBA
 DOMAIN-SUFFIX,cloud.unity3d.com,GAME
@@ -16,5 +16,5 @@ DOMAIN-SUFFIX,app.localhost.direct
 DOMAIN-SUFFIX,apt.25mao.com,WeChat插件
 DOMAIN-SUFFIX,web.freecloud.ltd,webfreecloud
 DOMAIN-SUFFIX,challenges.cloudflare.com,cloudflare
-USER-AGENT,missav,missav
+DOMAIN-KEYWORD,missav,missav
 
